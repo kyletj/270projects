@@ -1,0 +1,6 @@
+﻿  matrices.c
+c:\users\kylej\source\repos\270 projects\matrices\matrices.c(48): warning C4101: 'i': unreferenced local variable
+c:\users\kylej\source\repos\270 projects\matrices\matrices.c(92): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\kylej\source\repos\270 projects\matrices\matrices.c(96): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kylej\source\repos\270 projects\matrices\matrices.c(218): warning C4101: 'j': unreferenced local variable
+  Matrices.vcxproj -> C:\Users\kylej\source\repos\270 Projects\Matrices\Debug\Matrices.exe

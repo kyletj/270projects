@@ -1,0 +1,8 @@
+﻿  Assignment2.c
+c:\users\kylej\source\repos\270 projects\assignment2\assignment2.c(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kylej\source\repos\270 projects\assignment2\assignment2.c(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kylej\source\repos\270 projects\assignment2\assignment2.c(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kylej\source\repos\270 projects\assignment2\assignment2.c(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kylej\source\repos\270 projects\assignment2\assignment2.c(68): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\kylej\source\repos\270 projects\assignment2\assignment2.c(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment2.vcxproj -> C:\Users\kylej\source\repos\270 Projects\Assignment2\Debug\Assignment2.exe

@@ -1,0 +1,12 @@
+Quadratic Equation Solver-----------------------
+
+Please enter the value of a: 3.000000
+Please enter the value of b: 7.000000
+Please enter the value of c: 2.000000
+
+
+Distinct Real Roots-------------------------
+
+x1: -0.333333
+x2: -2.000000
+-----------------------------------------------

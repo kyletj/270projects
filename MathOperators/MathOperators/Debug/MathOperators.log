@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MathOperators.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MathOperators.c
+c:\users\kylej\source\repos\270 projects\mathoperators\mathoperators\mathoperators.c(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MathOperators.vcxproj -> C:\Users\kylej\source\repos\270 Projects\MathOperators\Debug\MathOperators_mixingVariables_Casts.exe
